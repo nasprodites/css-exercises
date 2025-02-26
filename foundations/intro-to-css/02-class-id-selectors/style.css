@@ -1,0 +1,22 @@
+/* style.css */
+
+#p1,
+#p3 {
+    background-color: red;
+}
+
+#div1 {
+    color: blue;
+    font-size: xx-large;
+}
+
+#p2 {
+    background-color: red;
+    font-size: larger;
+}
+
+#div2 {
+    background-color: green;
+    font-size: x-large;
+    font-weight: 700;
+}
